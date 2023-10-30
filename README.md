@@ -17,3 +17,5 @@ Are there significant price differences between conditions of rental properties?
 Are there correlations between property age and rental prices?
 How does the heating type impact rent prices?
 What factors contribute to fluctuations in rental prices?
+
+tableau link: https://public.tableau.com/app/profile/s.leyman.celik/viz/Task6_7_16986450393190/Story
